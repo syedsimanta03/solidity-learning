@@ -1,4 +1,4 @@
-# <center>Learning Solidity</center>
+# <p align='center'>Learning Solidity</p>
 
 ![](./blockchain.svg)
 
